@@ -32,8 +32,8 @@
 }
 .chicken11{
     background-color: rgb(147, 200, 246);
-    grid-row-start: 5;
-    grid-row-end: 6;
-    grid-column-start: 1;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 2;
     grid-column-end: 7;
 }

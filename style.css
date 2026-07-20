@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
-    height: 670px;
+    height: 780px;
 }
 .item{
     background-color: rgb(255, 255, 255);

@@ -33,3 +33,6 @@
     grid-column-start: 3;
     grid-column-end: 7;
 }
+.item chicken1{
+    background-color: black;
+}

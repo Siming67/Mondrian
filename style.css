@@ -38,8 +38,7 @@
     grid-column-end: 7;
 }
 .chicken2{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
-    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s); 
 }
 .chicken3{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
@@ -62,7 +61,7 @@
 .chicken12{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
 }
-.image{
+img{
     width: auto;
     height: auto;
 }

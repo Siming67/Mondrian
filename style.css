@@ -6,7 +6,7 @@
     height: 670px;
 }
 .item{
-    background-color: rgb(223, 161, 47);
+    background-color: rgb(255, 255, 255);
     color: yellow;
     font-size: 30px;
     padding: 10px;
@@ -14,7 +14,7 @@
     font-family: 'Montserrat', sans-serif;
 }
 .chicken1{
-    background-color: black;
+    background-color: rgb(197, 197, 37);
     grid-column-start: 1;
     grid-column-end: 3;
 }
@@ -24,14 +24,14 @@
     grid-row-end: 4;
 }
 .chicken6{
-    background-color: greenyellow;
+    background-color: rgb(170, 252, 47);
     grid-row-start: 2;
     grid-row-end: 4;
     grid-column-start: 3;
     grid-column-end: 4;
 }
 .chicken11{
-    background-color: aliceblue;
+    background-color: rgb(147, 200, 246);
     grid-row-start: 5;
     grid-row-end: 6;
     grid-column-start: 3;

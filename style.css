@@ -1,0 +1,29 @@
+.jipaige{
+    background-color: #1c99a7;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    height: 670px;
+}
+.item{
+    background-color: rgb(221, 166, 95);
+    color: yellow;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.chicken1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.chicken4{
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.chicken6{
+    grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}

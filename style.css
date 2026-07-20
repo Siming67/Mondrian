@@ -30,7 +30,7 @@
     grid-column-start: 3;
     grid-column-end: 4;
 }
-.chicken12{
+.chicken11{
     background-color: rgb(147, 200, 246);
     grid-row-start: 3;
     grid-row-end: 4;
@@ -42,27 +42,31 @@
     
 }
 .chicken3{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
+    background-image: url(https://p8.itc.cn/q_70/images03/20230530/95d5d6cf489e43e898e6092e4c69ce81.jpeg);
 }
 .chicken5{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
 }
 .chicken7{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
+    background-image: url(https://p8.itc.cn/q_70/images03/20230530/95d5d6cf489e43e898e6092e4c69ce81.jpeg);
 }
 .chicken8{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
 }
 .chicken9{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
+    background-image: url(https://p8.itc.cn/q_70/images03/20230530/95d5d6cf489e43e898e6092e4c69ce81.jpeg);
 }
 .chicken10{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
 }
-.chicken11{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWISy8tRsruGK8PW8PyzMIbieA1NnBvj6eG1OO3HOEA&s);
+.chicken12{
+    background-image: url(https://p8.itc.cn/q_70/images03/20230530/95d5d6cf489e43e898e6092e4c69ce81.jpeg);
 }
-img{
+.image1{
     width: auto;
+    height: auto;
+}
+.image2{
+    size: auto;
     height: auto;
 }
